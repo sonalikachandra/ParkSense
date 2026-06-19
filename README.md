@@ -166,7 +166,8 @@ ParkSense communicates with the backend via three endpoints:
 
 ## 👥 Team
 
-- **Your Name** — *Lead Developer*
+- **1.** *Sonalika Chandra*
+- **2.** *Satyam Raj*
 
 ---
 
