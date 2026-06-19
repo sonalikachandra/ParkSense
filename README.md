@@ -100,34 +100,8 @@ The backend CatBoost model uses **lag features** to predict violations:
 ---
 
 ## 🏗️ Architecture
-┌─────────────────────────────────────────────────────────────────────┐
-│ USER BROWSER │
-└─────────────────────────────────────────────────────────────────────┘
-│
-▼
-┌─────────────────────────────────────────────────────────────────────┐
-│ STREAMLIT FRONTEND │
-│ ┌─────────────┐ ┌─────────────┐ ┌─────────────┐ │
-│ │ Hotspot Map │ │Patrol Sched │ │ Flipkart │ │
-│ └─────────────┘ └─────────────┘ └─────────────┘ │
-│ │ │
-│ ▼ │
-│ POST /predict?timestamp=... │
-└─────────────────────────────────────────────────────────────────────┘
-│
-▼
-┌─────────────────────────────────────────────────────────────────────┐
-│ FASTAPI BACKEND (RAILWAY) │
-│ ┌─────────────────────────────────────────────────────────────┐ │
-│ │ CatBoost Model (count_predictor.cbm) │ │
-│ │ + latest_state.csv (baseline lag features) │ │
-│ │ + cluster_metadata.csv (lat/lng/h3_cell/risk metadata) │ │
-│ └─────────────────────────────────────────────────────────────┘ │
-│ │ │
-│ ▼ │
-│ Returns: clusters + city_stats │
-└─────────────────────────────────────────────────────────────────────┘
 
+![Architecture Diagram](screenshots/architecture.png)
 
 ---
 
@@ -156,6 +130,7 @@ pip install -r requirements.txt
 # 4. Run the app
 streamlit run app.py
 
+```
 ## 🔌 API Integration
 
 ParkSense communicates with the backend via three endpoints:
