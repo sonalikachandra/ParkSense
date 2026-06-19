@@ -1,10 +1,8 @@
 streamlit
 pandas
 numpy
+requests
 folium
 streamlit-folium
 plotly
-xgboost
-scikit-learn
-h3
-joblib
+h3>=4.0.0
