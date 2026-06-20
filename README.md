@@ -7,18 +7,18 @@ ParkSense is an AI-powered enforcement command center that transforms raw parkin
 <p align="center">
 
 <a href="https://parksense-pvyrecjmv88qdzh7envuxq.streamlit.app/">
-<img src="https://img.shields.io/badge/🚀_Live_Demo-Open_App-FF4B4B?style=for-the-badge">
+<img src="https://img.shields.io/badge/🚀_Live_Demo-FF4B4B?style=for-the-badge">
 </a>
 
 <a href="https://web-production-25afb.up.railway.app">
-<img src="https://img.shields.io/badge/⚡_Backend_API-Railway-0B0D0E?style=for-the-badge">
+<img src="https://img.shields.io/badge/⚡_Backend_API-0B0D0E?style=for-the-badge">
 </a>
 
 <a href="https://github.com/Edward4762/parksense-api">
-<img src="https://img.shields.io/badge/📂_Source_Code-GitHub-181717?style=for-the-badge">
+<img src="https://img.shields.io/badge/📂_Backend_Github_URL-181717?style=for-the-badge">
 </a>
 
-<img src="https://img.shields.io/badge/🏆_Hackathon-Gridlock_2.0-F7C948?style=for-the-badge">
+<img src="https://img.shields.io/badge/🏆_Flipkart_Gridlock_2.0-F7C948?style=for-the-badge">
 
 </p>
 
