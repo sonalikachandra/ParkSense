@@ -4,10 +4,25 @@
 
 ParkSense is an AI-powered enforcement command center that transforms raw parking violation data into **predictive, actionable intelligence**. It identifies hidden "Dark Zones" (49% of violations with no junction mapping), predicts hourly violation spikes using a CatBoost model with lag features, and generates optimal patrol routes for targeted enforcement.
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)](https://parksense-pvyrecjmv88qdzh7envuxq.streamlit.app/)
-[![Backend API](https://img.shields.io/badge/Backend_API-Railway-0B0D0E?style=for-the-badge&logo=railway)](https://web-production-25afb.up.railway.app)
-[![Hackathon](https://img.shields.io/badge/Hackathon-Gridlock_2.0-F7C948?style=for-the-badge)]()
+<p align="center">
 
+<a href="https://parksense-pvyrecjmv88qdzh7envuxq.streamlit.app/">
+<img src="https://img.shields.io/badge/🚀_Live_Demo-Open_App-FF4B4B?style=for-the-badge">
+</a>
+
+<a href="https://web-production-25afb.up.railway.app">
+<img src="https://img.shields.io/badge/⚡_Backend_API-Railway-0B0D0E?style=for-the-badge">
+</a>
+
+<a href="https://github.com/Edward4762/parksense-api">
+<img src="https://img.shields.io/badge/📂_Source_Code-GitHub-181717?style=for-the-badge">
+</a>
+
+<img src="https://img.shields.io/badge/🏆_Hackathon-Gridlock_2.0-F7C948?style=for-the-badge">
+
+</p>
+
+# ParkSense AI
 ---
 
 ## 📌 Table of Contents
@@ -166,8 +181,8 @@ ParkSense communicates with the backend via three endpoints:
 
 ## 👥 Team
 
-- **1.** *Sonalika Chandra*
-- **2.** *Satyam Raj*
+**1.** *Sonalika Chandra*
+**2.** *Satyam Raj*
 
 ---
 
