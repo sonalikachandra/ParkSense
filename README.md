@@ -10,6 +10,14 @@ ParkSense is an AI-powered enforcement command center that transforms raw parkin
 <img src="https://img.shields.io/badge/🚀_Live_Demo-FF4B4B?style=for-the-badge">
 </a>
 
+<a href="https://drive.google.com/file/d/1vNxFMoB-9Vg6jYCkowIPOduPYOtDpQvX/view?usp=sharing">
+<img src="https://img.shields.io/badge/🎬_Video_Demo-181717?style=for-the-badge">
+</a>
+
+<a href="https://drive.google.com/file/d/1CZPmXySkU356Q7MMIhzvMFYXORT7cenS/view?usp=sharing">
+<img src="https://img.shields.io/badge/🧠_PPT-181717?style=for-the-badge">
+</a>
+
 <a href="https://web-production-25afb.up.railway.app">
 <img src="https://img.shields.io/badge/⚡_Backend_API-0B0D0E?style=for-the-badge">
 </a>
@@ -181,8 +189,8 @@ ParkSense communicates with the backend via three endpoints:
 
 ## 👥 Team
 
-**1.** *Sonalika Chandra*
-**2.** *Satyam Raj*
+- Sonalika Chandra
+- Satyam Raj
 
 ---
 
